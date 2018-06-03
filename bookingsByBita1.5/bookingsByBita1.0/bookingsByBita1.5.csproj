@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2EFB368-24AB-4F2C-AAE0-3B192E096734}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>bookingsByBita1._0</RootNamespace>
+    <AssemblyName>bookingsByBita1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Appointment.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Appt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appt.Designer.cs">
+      <DependentUpon>Appt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chkAppt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chkAppt.Designer.cs">
+      <DependentUpon>chkAppt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empLookUp.cs" />
+    <Compile Include="empLookUp.Designer.cs">
+      <DependentUpon>empLookUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="custLookUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custLookUp.Designer.cs">
+      <DependentUpon>custLookUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empUpdate .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empUpdate .Designer.cs">
+      <DependentUpon>empUpdate .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="custUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custUpdate.Designer.cs">
+      <DependentUpon>custUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HairSalonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HairSalonDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HairSalonModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HairSalonModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HairSalonModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HairSalonModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HairSalonModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logo.Designer.cs">
+      <DependentUpon>logo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addEdit.Designer.cs">
+      <DependentUpon>addEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainMenu.Designer.cs">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="spShowAllHairStylist_Result.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spShowAllSchedule_Result.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spShowTodaySchedule_Result.cs">
+      <DependentUpon>HairSalonModel.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Appt.resx">
+      <DependentUpon>Appt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chkAppt.resx">
+      <DependentUpon>chkAppt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empLookUp.resx">
+      <DependentUpon>empLookUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custLookUp.resx">
+      <DependentUpon>custLookUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empUpdate .resx">
+      <DependentUpon>empUpdate .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custUpdate.resx">
+      <DependentUpon>custUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logo.resx">
+      <DependentUpon>logo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addEdit.resx">
+      <DependentUpon>addEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainMenu.resx">
+      <DependentUpon>mainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EntityDeploy Include="HairSalonModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>HairSalonModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="HairSalonDataSet.xsc">
+      <DependentUpon>HairSalonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HairSalonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HairSalonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HairSalonDataSet.xss">
+      <DependentUpon>HairSalonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HairSalonModel.edmx.diagram">
+      <DependentUpon>HairSalonModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Customer.datasource" />
+    <None Include="Properties\DataSources\spShowAllSchedule_Result.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HairSalonModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HairSalonModel.edmx</DependentUpon>
+      <LastGenOutput>HairSalonModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="HairSalonModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HairSalonModel.edmx</DependentUpon>
+      <LastGenOutput>HairSalonModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

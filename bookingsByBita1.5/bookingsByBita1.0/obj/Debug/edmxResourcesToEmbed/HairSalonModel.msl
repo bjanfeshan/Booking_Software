@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HairSalonModelStoreContainer" CdmEntityContainer="HairSalonDBContext">
+    <EntitySetMapping Name="Appointments">
+      <EntityTypeMapping TypeName="HairSalonModel.Appointment">
+        <MappingFragment StoreEntitySet="Appointments">
+          <ScalarProperty Name="AptID" ColumnName="AptID" />
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="CustID" ColumnName="CustID" />
+          <ScalarProperty Name="AptDate" ColumnName="AptDate" />
+          <ScalarProperty Name="AptTime" ColumnName="AptTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="HairSalonModel.Customer">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="CustID" ColumnName="CustID" />
+          <ScalarProperty Name="CustFirstName" ColumnName="CustFirstName" />
+          <ScalarProperty Name="CustLastName" ColumnName="CustLastName" />
+          <ScalarProperty Name="CustPhone" ColumnName="CustPhone" />
+          <ScalarProperty Name="CustEmail" ColumnName="CustEmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="HairSalonModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="EmpFirstName" ColumnName="EmpFirstName" />
+          <ScalarProperty Name="EmpLastName" ColumnName="EmpLastName" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="DaysAvailable" ColumnName="DaysAvailable" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spGetCustID" FunctionName="HairSalonModel.Store.spGetCustID" />
+    <FunctionImportMapping FunctionImportName="spShowAllHairStylist" FunctionName="HairSalonModel.Store.spShowAllHairStylist">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HairSalonModel.spShowAllHairStylist_Result">
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee ID" />
+          <ScalarProperty Name="Hair_Strylist" ColumnName="Hair Strylist" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spShowAllSchedule" FunctionName="HairSalonModel.Store.spShowAllSchedule">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HairSalonModel.spShowAllSchedule_Result">
+          <ScalarProperty Name="Hair_Strylist" ColumnName="Hair Strylist" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spShowTodaySchedule" FunctionName="HairSalonModel.Store.spShowTodaySchedule">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HairSalonModel.spShowTodaySchedule_Result">
+          <ScalarProperty Name="Hair_Strylist" ColumnName="Hair Strylist" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Client" ColumnName="Client" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

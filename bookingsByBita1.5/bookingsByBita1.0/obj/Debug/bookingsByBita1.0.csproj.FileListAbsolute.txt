@@ -1,0 +1,79 @@
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe.config
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.pdb
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csprojAssemblyReference.cache
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.login.resources
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.logo.resources
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Properties.Resources.resources
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.GenerateResource.cache
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.CoreCompileInputs.cache
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.exe
+C:\Users\nopassword\Desktop\BookingsbyBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.pdb
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csprojResolveAssemblyReference.cache
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.exe
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.pdb
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe.config
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.pdb
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.login.resources
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.logo.resources
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.mainMenu.resources
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Properties.Resources.resources
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.GenerateResource.cache
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.CoreCompileInputs.cache
+C:\Users\1796136\Downloads\bita\bookingsByBita1.0\bookingsByBita1.0\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.appointments.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe.config
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.pdb
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csprojAssemblyReference.cache
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Appt.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.chkAppt.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.login.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.logo.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.mainMenu.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Properties.Resources.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.GenerateResource.cache
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.CoreCompileInputs.cache
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.exe
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.pdb
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.custUpdate.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.empUpdate.resources
+C:\Users\nopassword\Desktop\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.addEdit.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe.config
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.pdb
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csprojResolveAssemblyReference.cache
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Appt.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.chkAppt.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.empUpdate.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.custUpdate.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.login.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.logo.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.addEdit.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.mainMenu.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Properties.Resources.resources
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.GenerateResource.Cache
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.CoreCompileInputs.cache
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.exe
+F:\C #\Project\bookingsByBita1.1\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.pdb
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe.config
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.exe
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\bookingsByBita1.0.pdb
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\EntityFramework.dll
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\EntityFramework.xml
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csprojResolveAssemblyReference.cache
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Appt.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.chkAppt.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.empUpdate.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.custUpdate.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.login.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.logo.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.addEdit.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.mainMenu.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1._0.Properties.Resources.resources
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.GenerateResource.Cache
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.csproj.CoreCompileInputs.cache
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.exe
+D:\C# Projects\bookingsByBita1.2\bookingsByBita1.0\obj\Debug\bookingsByBita1.0.pdb
