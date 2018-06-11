@@ -120,8 +120,8 @@ namespace bookingsByBita1._0
             }
             catch(Exception ex)
             {
-                MessageBox.Show("The system could not connect to database. Please check the database connection settings.");
-                throw ex;
+                MessageBox.Show("The system could not connect to database. Please check the database connection settings." + ex.Message);
+                
             }
         }
 
@@ -150,8 +150,8 @@ namespace bookingsByBita1._0
             }
             catch(Exception ex)
             {
-                MessageBox.Show("The system could not connect to database. Please check the database connection settings.");
-                throw ex;
+                MessageBox.Show("The system could not connect to database. Please check the database connection settings." + ex.Message);
+               
             }
         }
 

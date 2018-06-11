@@ -28,7 +28,7 @@ namespace bookingsByBita1._0
             }
             catch (Exception e)
             {
-                throw e;
+                MessageBox.Show(ex.Message);
             }
             
         }

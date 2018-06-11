@@ -37,7 +37,7 @@ namespace bookingsByBita1._0
             }
             catch(Exception ex)
             {
-                throw ex;
+                MessageBox.Show(ex.Message);
             }
             
         }
@@ -62,7 +62,7 @@ namespace bookingsByBita1._0
             }
             catch(Exception ex)
             {
-                throw ex;
+                MessageBox.Show(ex.Message);
             }
             
         }
@@ -102,8 +102,8 @@ namespace bookingsByBita1._0
             }
             catch(Exception ex)
             {
-                MessageBox.Show("The Appointment was not added! Please check database connection settings.");
-                throw ex;
+                MessageBox.Show("The Appointment was not added! Please check database connection settings." + ex.Message);
+                
             }
             
         }
